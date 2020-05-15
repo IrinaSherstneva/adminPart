@@ -1,0 +1,26 @@
+
+body {
+  background-color: #E8ECEF;
+}
+
+.centered {
+    padding-top: 200px;
+    text-align: center;
+}
+.navbar{
+  padding: 0;
+  background-color:grey;
+}
+.nav-link{
+  margin: 0.8vw 5vw;
+  color: #fff;
+}
+.navbar-nav{
+  margin: auto;
+}
+.text {
+  text-align: center;
+  font-size: 2rem;
+  color: #fff;
+  background-color: #000;
+}
